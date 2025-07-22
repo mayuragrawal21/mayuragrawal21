@@ -42,7 +42,7 @@ I focus on building and deploying impactful machine learning systems—not just 
 📍 London, UK  
 📧 [agrawalmayur2001@gmail.com](mailto:agrawalmayur2001@gmail.com)  
 📞 +44 7774 871471  
-🌐 [LinkedIn](https://www.linkedin.com/in/mayur-agrawal/)  
-🌍 [Portfolio/Website](https://your-website-link.com) <!-- Replace this with your actual website if available -->
+🌐 [LinkedIn](https://www.linkedin.com/in/mayur-agrawal21/)  
+ <!-- Replace this with your actual website if available -->
 
 ---
