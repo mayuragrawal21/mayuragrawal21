@@ -50,7 +50,7 @@ EchoForge is an open-source Python library for echocardiographic view classifica
 | [**EchoForge**](https://github.com/thrive-centre/EchoForge) | Modular AI library for echocardiography (classification, segmentation, phase detection) |
 | [**PulseNote**](https://www.intsav.com/PulseNote.html) | Real-time ECG annotation platform (Brugada classification) |
 | **TBI Outcome Prediction** | ML models for patient discharge and recovery forecasting |
-| **3D Echo Segmentation** | Achieved 86.7% Dice score on HMC-QU dataset using 3D U-Net |
+| [**3D Echo Segmentation**](https://github.com/mayuragrawal21/AI-Powered-3D-Echocardiographic-Video-Segmentation-with-State-of-the-Art-Deep-Learning-Innovations) | Achieved 86.7% Dice score on HMC-QU dataset using 3D U-Net |
 | **Mobile Eye** | Built >180° panoramic inspection using 3-camera stitching |
 | **Echocardiogram Viewer** | GUI with real-time model inference and 3D anatomical overlay |
 
